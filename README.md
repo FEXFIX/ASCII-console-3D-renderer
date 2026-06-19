@@ -31,6 +31,9 @@ renderer.exe .\demo-models\cube.obj 100 4 g
 
 Press `Ctrl + C` to quit and type `cls` to clear and reuse again
 
+
+### Cube example
 ![cube-example](screenshots/cube-example.png)
 
+### Body close example
 ![body-example](screenshots/body-close-example.png)
