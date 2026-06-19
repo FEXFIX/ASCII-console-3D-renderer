@@ -1,0 +1,4 @@
+renderer.exe
+*.o
+*.obj
+models/
